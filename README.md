@@ -1,4 +1,4 @@
-# Record App to transcribe
+# Record and Share App
 
 Install Android Studio to use the App
 
