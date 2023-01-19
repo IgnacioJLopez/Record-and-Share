@@ -13,13 +13,12 @@ The android app lets you:
 - Record audio and storing it
 - View the recording list
 - Play back the recorded audios
+- Share them via email or social media
 
 
 <h2>To Do</h2>
 
 1. Editor: cut out parts
-1. Share them via email or social media
-1. Automatic sharing to a set email address
 1. Saying "stop recording please" stops the recording
 
 <h2>Screenshots</h2>
